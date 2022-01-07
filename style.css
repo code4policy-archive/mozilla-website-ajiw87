@@ -16,10 +16,12 @@ p, li {
   color: lightslategray;
 }
 
+/* change page color*/
 html {
   background-color: #7A7F84;
 }
 
+/* style the body*/
 body {
   width: 1000px;
   margin: 0 auto;
@@ -28,6 +30,7 @@ body {
   border: 10px solid black;
 }
 
+/* Positioning and styling the main page title */
 h1 {
   margin: 0;
   padding: 20px 0;
