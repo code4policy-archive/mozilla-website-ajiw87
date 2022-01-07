@@ -38,3 +38,25 @@ h1 {
   text-shadow: 3px 3px 1px black;
 }
 
+/* Centering the image */
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+
+/* Class vs ID */
+
+.quote {
+  color: darkred;
+  font-style: italic;
+}
+
+#mainquote {
+  color: black;
+  border-style: dotted;
+  border-color: darkred;
+}
+
+
