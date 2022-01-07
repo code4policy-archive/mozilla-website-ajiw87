@@ -27,3 +27,11 @@ body {
   padding: 0 50px 50px 50px;
   border: 10px solid black;
 }
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #7A7F84;
+  text-shadow: 3px 3px 1px black;
+}
+
